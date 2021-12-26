@@ -48,4 +48,4 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
 
 <br>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=syrashid.syrashid) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/syrashid) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/syrashid)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=syrashid.syrashid) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/omelale) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/omelale)
