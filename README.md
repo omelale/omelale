@@ -64,7 +64,7 @@ When I'm not coding find me eating some delicious food  :poultry_leg: or playing
 <br>
 
 <details>
-  <summary>Click👆</summary>
+  <summary>Click👆 to find out the secret of life</summary>
   <pre>
   🤷‍♂️
     
