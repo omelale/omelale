@@ -1,4 +1,4 @@
-<h1 align="center">🤠 Howdy! I'm Omelale</h1>
+<h1 align="center">🤠 Howdy! I'm Ajten</h1>
 
 <p align="center">
 I'm a fullstack developer and designer building digital products learning new stuff everyday.  I currently manage and code daily as my hobby/profession.   
