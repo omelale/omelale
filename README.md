@@ -1,5 +1,9 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px"> Hey there! I'm Ajten</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px"> Hey there! I'm Ajten
 
+[![Linkedin Badge](https://img.shields.io/badge/-Ajten-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajten-cani/)](https://www.linkedin.com/in/ajten-cani/)
+[![Instagram Badge](https://img.shields.io/badge/-@ajten.cani-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ajten.cani/)](https://instagram.com/ajten.cani)
+[![Gmail Badge](https://img.shields.io/badge/-ajtencani-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ajtencani@gmail.com)](mailto:ajtencani@gmail.com)
+</h1>
 <p align="center">
 I'm a fullstack developer and designer building digital products learning new stuff everyday.  I currently manage and code daily as my hobby/profession.   
 </p>
@@ -57,5 +61,14 @@ When I'm not coding find me eating some delicious food  :poultry_leg: or playing
 </p>
 
 <br>
+
+<details>
+  <summary>Click👆</summary>
+  <pre>
+  🤷‍♂️
+    
+  </pre>
+</details>
+
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=syrashid.syrashid) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/omelale) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/omelale)
