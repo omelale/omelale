@@ -14,6 +14,7 @@ When I'm not coding find me eating some delicious food  :poultry_leg: or playing
 
 <p> 
   <img src="https://laravel.com/img/logomark.min.svg" style="height: 30px" alt="Laravel-logo">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="height: 30px" alt="php-logo">
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" style="height: 30px" alt="mysql-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849661/css_jtfcoz.png" alt="css-logo">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="height: 30px" alt="js-logo">
@@ -22,7 +23,7 @@ When I'm not coding find me eating some delicious food  :poultry_leg: or playing
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="height: 30px" alt="cmd-logo">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" style="height: 30px" alt="Android-studio-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849660/postgresql_zsfd9p.png" alt="postgres-logo">
-  <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" style="height: 30px" alt="react-logo">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="height: 30px" alt="react-logo">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style="height: 30px" alt="github-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598850235/html_1_whl9rj.png" alt="html-logo">
   <img src="https://external-preview.redd.it/WSuAcyz1u8MoF8cokXspkmOIn8oWXaE8JH-SGXbUUW0.png?auto=webp&s=a6abc62ecb4a08f2bf2f287b79c9bd93006791d1" style="height: 30px" alt="visual-studio-logo">
@@ -31,6 +32,7 @@ When I'm not coding find me eating some delicious food  :poultry_leg: or playing
   <img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Trello_icon-icons.com_66775.png" style="height: 30px" alt="slack-logo">
   <img src="https://w7.pngwing.com/pngs/649/982/png-transparent-web-development-responsive-web-design-bootstrap-html-web-design-purple-search-engine-optimization-web-design.png" style="height: 30px" alt="bootstrap-logo">
   <img src="https://toppng.com/uploads/preview/slack-new-logo-icon-11609376883z32jbkf8kg.png" style="height: 30px" alt="slack-logo">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" style="height: 40px" alt="nginx-logo">
 </p>
 
 <br>
@@ -50,6 +52,8 @@ When I'm not coding find me eating some delicious food  :poultry_leg: or playing
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849653/google_gqugc7.png" alt="autocomplete-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849652/linkedin_obs3m2.png" alt="linkedin-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849655/algolia_pgipvv.png" alt="algolia-logo">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="height: 30px" alt="algolia-logo">
+  <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" style="height: 30px" alt="mongo-logo">
 </p>
 
 <br>
