@@ -4,13 +4,14 @@
 [![Instagram Badge](https://img.shields.io/badge/-@ajten.cani-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ajten.cani/)](https://instagram.com/ajten.cani)
 [![Gmail Badge](https://img.shields.io/badge/-ajtencani-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ajtencani@gmail.com)](mailto:ajtencani@gmail.com)
 </h1>
+  <p align="center"><img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /></p>
+
 <p align="center">
 I'm a fullstack developer and designer building digital products learning new stuff everyday.  I currently manage and code daily as my hobby/profession.   
 </p>
 <p align="center"> 
 When I'm not coding find me eating some delicious food  :poultry_leg: or playing football :soccer: 
 </p>
-
 
 <br>
 
