@@ -4,18 +4,14 @@
 [![Instagram Badge](https://img.shields.io/badge/-@ajten.cani-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ajten.cani/)](https://instagram.com/ajten.cani)
 [![Gmail Badge](https://img.shields.io/badge/-ajtencani-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ajtencani@gmail.com)](mailto:ajtencani@gmail.com)
 </h1>
-  <p align="center"><img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /></p>
-
+<p align="center"><img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /></p>
 <p align="center">
-I'm a fullstack developer and designer building digital products learning new stuff everyday.  I currently manage and code daily as my hobby/profession.   
+    I'm a <b>fullstack web developer/designer</b> trying to make the web a better place and learning new stuff every day. <br> I currently manage and code daily as my hobby/profession.
+    When I'm not coding find me eating some delicious  :poultry_leg: or playing  :soccer: 
 </p>
-<p align="center"> 
-When I'm not coding find me eating some delicious food  :poultry_leg: or playing football :soccer: 
-</p>
-
 <br>
 
-### What I always play with
+### My daily tools of recreation
 
 <p> 
   <img src="https://laravel.com/img/logomark.min.svg" style="height: 30px" alt="Laravel-logo">
@@ -66,10 +62,8 @@ When I'm not coding find me eating some delicious food  :poultry_leg: or playing
 <details>
   <summary>Click👆 to find out the secret of life</summary>
   <pre>
-  🤷‍♂️
-    
+  🤷‍♂️ - No clue!
   </pre>
 </details>
-
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=syrashid.syrashid) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/omelale) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/omelale)
