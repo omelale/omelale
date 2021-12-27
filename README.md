@@ -15,10 +15,12 @@ When I'm not coding find me eating some delicious chicken  :poultry_leg: or play
 <p> 
   <img src="https://laravel.com/img/logomark.min.svg" style="height: 30px" alt="Laravel-logo">
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" style="height: 30px" alt="mysql-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849662/javascript_eniubp.png" alt="js-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849661/css_jtfcoz.png" alt="css-logo">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="height: 30px" alt="js-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849659/jquery_lvyzat.png" alt="jquery-logo">
   <img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" style="height: 30px" alt="ubuntu-logo">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="height: 30px" alt="cmd-logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" style="height: 30px" alt="Android-studio-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849660/postgresql_zsfd9p.png" alt="postgres-logo">
   <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" style="height: 30px" alt="react-logo">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style="height: 30px" alt="github-logo">
@@ -26,6 +28,8 @@ When I'm not coding find me eating some delicious chicken  :poultry_leg: or play
   <img src="https://external-preview.redd.it/WSuAcyz1u8MoF8cokXspkmOIn8oWXaE8JH-SGXbUUW0.png?auto=webp&s=a6abc62ecb4a08f2bf2f287b79c9bd93006791d1" style="height: 30px" alt="visual-studio-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849653/node-js_tkywbk.png" alt=<"nodejs-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849656/figma_ugopbh.png" alt="figma-logo">
+  <img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Trello_icon-icons.com_66775.png" style="height: 30px" alt="slack-logo">
+  <img src="https://toppng.com/uploads/preview/slack-new-logo-icon-11609376883z32jbkf8kg.png" style="height: 30px" alt="slack-logo">
 </p>
 
 <br>
