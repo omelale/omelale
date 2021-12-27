@@ -60,9 +60,11 @@
 <br>
 
 <details>
-  <summary>Click👆 to find out the secret of life</summary>
-  <pre>
-  🤷‍♂️ - No clue!
+  <summary>Click👆 to see my contribution graph</summary>
+  <pre>️ 
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=omelale&theme=github)
+
   </pre>
 </details>
 
