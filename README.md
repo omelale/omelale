@@ -4,7 +4,7 @@
 I'm a fullstack developer and designer building digital products learning new stuff everyday.  I currently manage and code daily as my hobby/profession.   
 </p>
 <p align="center"> 
-When I'm not coding find me eating some delicious chicken  :poultry_leg: or playing football :albania: .
+When I'm not coding find me eating some delicious chicken  :poultry_leg: or playing football :soccer: .
 </p>
 
 
