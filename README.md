@@ -65,6 +65,10 @@
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=omelale&theme=github)
 
+<p align="center">
+  <img width="%" src="https://github-readme-streak-stats.herokuapp.com/?user=omelale&theme=tokyonight" />
+</p>
+
   </pre>
 </details>
 
