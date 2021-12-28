@@ -6,7 +6,7 @@
 </h1>
 <p align="center"><img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /></p>
 <p align="center">
-    I'm a <b>fullstack web developer/designer</b> trying to make the web a better place and learning new stuff every day. <br> I currently manage and code daily as my hobby/profession.
+    I'm a <b>Computer Science Engineer</b> currently working as a <b>fullstack web developer</b> trying to learn <b>new stuff every day</b>. <br>
     When I'm not coding find me eating some delicious  :poultry_leg: or playing  :soccer: 
 </p>
 <br>
