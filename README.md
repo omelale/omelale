@@ -21,7 +21,6 @@
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849659/jquery_lvyzat.png" alt="jquery-logo">
   <img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" style="height: 30px" alt="ubuntu-logo">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="height: 30px" alt="cmd-logo">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" style="height: 30px" alt="Android-studio-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849660/postgresql_zsfd9p.png" alt="postgres-logo">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="height: 30px" alt="react-logo">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style="height: 30px" alt="github-logo">
@@ -39,6 +38,7 @@
 ### What I sometimes play with
 
 <p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="height: 30px" alt="algolia-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849651/googledeveloper_dpefgw.png" alt="google-dev-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849658/aws_zdxicw.jpg" alt="aws-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849655/stripe_wpdp4s.png" alt="stripe-logo">
@@ -48,8 +48,7 @@
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849653/redis_xtyczu.png" alt="redis-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849653/google_gqugc7.png" alt="autocomplete-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849652/linkedin_obs3m2.png" alt="linkedin-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849655/algolia_pgipvv.png" alt="algolia-logo">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="height: 30px" alt="algolia-logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" style="height: 30px" alt="Android-studio-logo">
 </p>
 
 <br>
