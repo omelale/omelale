@@ -70,9 +70,12 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omelale&layout=compact&theme=tokyonight">    
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omelale&layout=compact&theme=tokyonight" alt="Top language used in my repos" />    
+<strong align="center">Guess which is my favourite language :laughing: </strong>
 </p>
   </pre>
 </details>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=syrashid.syrashid) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/omelale) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/omelale)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=syrashid.syrashid) 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/omelale)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/omelale)
