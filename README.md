@@ -71,7 +71,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omelale&layout=compact&theme=tokyonight" alt="Top language used in my repos" />    
-<p align="center">Guess which is my favourite language :smile: </p>
+<p align="center">Guess which is my favourite language  :smile:  </p>
 </p>
   </pre>
 </details>
