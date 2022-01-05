@@ -59,9 +59,9 @@
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=omelale&theme=github)
 
-<p align="center">
-  <img width="%" src="https://github-readme-streak-stats.herokuapp.com/?user=omelale&theme=tokyonight" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omelale&layout=compact&theme=tokyonight" alt="Top language used in my repos" />    
+<p align="center" dir="auto" style="margin: auto" >
+  <img width="69%" src="https://github-readme-streak-stats.herokuapp.com/?user=omelale&theme=tokyonight" /></p>
+<p align="center"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omelale&layout=compact&theme=tokyonight" alt="Top language used in my repos" />    
 <p align="center" style="margin-left:-30px">Guess which is my favourite language
 </p>
   </pre>
