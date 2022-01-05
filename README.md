@@ -60,7 +60,7 @@
 <br>
 
 <details>
-  <summary>Click👆 to see my contribution graph</summary>
+  <summary>Click👆 to see my contribution graph and my most used languages</summary>
   <pre>️ 
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=omelale&theme=github)
@@ -69,6 +69,9 @@
   <img width="%" src="https://github-readme-streak-stats.herokuapp.com/?user=omelale&theme=tokyonight" />
 </p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omelale&layout=compact&theme=tokyonight">    
+</p>
   </pre>
 </details>
 
