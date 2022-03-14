@@ -21,7 +21,7 @@
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849659/jquery_lvyzat.png" alt="jquery-logo">
   <img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" style="height: 30px" alt="ubuntu-logo">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="height: 30px" alt="cmd-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849660/postgresql_zsfd9p.png" alt="postgres-logo">
+  <img src="https://svgarchive.com/wp-content/uploads/tailwind-css.svg" height="30px" width="60px" alt="tailwind css" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="height: 30px" alt="react-logo">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style="height: 30px" alt="github-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598850235/html_1_whl9rj.png" alt="html-logo">
@@ -34,7 +34,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" style="height: 40px" alt="nginx-logo">
 </p>
 
-
 ### What I sometimes play with
 
 <p>
@@ -43,6 +42,7 @@
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849658/aws_zdxicw.jpg" alt="aws-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849655/stripe_wpdp4s.png" alt="stripe-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849651/googlemaps_uujgzn.png" alt="googlemaps-logo">
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849660/postgresql_zsfd9p.png" alt="postgres-logo">  
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849654/websockets_owvtbv.png" alt="websockets-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849657/ux-ui-logo_g1gptz.png" alt="ux-ui-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849653/redis_xtyczu.png" alt="redis-logo">
@@ -70,6 +70,6 @@
   </pre>
 </details>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=omelale) 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=omelale)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/omelale)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/omelale)
