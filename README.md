@@ -26,7 +26,6 @@
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style="height: 30px" alt="github-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598850235/html_1_whl9rj.png" alt="html-logo">
   <img src="https://external-preview.redd.it/WSuAcyz1u8MoF8cokXspkmOIn8oWXaE8JH-SGXbUUW0.png?auto=webp&s=a6abc62ecb4a08f2bf2f287b79c9bd93006791d1" style="height: 30px" alt="visual-studio-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849653/node-js_tkywbk.png" alt=<"nodejs-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849656/figma_ugopbh.png" alt="figma-logo">
   <img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Trello_icon-icons.com_66775.png" style="height: 30px" alt="slack-logo">
   <img src="https://w7.pngwing.com/pngs/649/982/png-transparent-web-development-responsive-web-design-bootstrap-html-web-design-purple-search-engine-optimization-web-design.png" style="height: 30px" alt="bootstrap-logo">
