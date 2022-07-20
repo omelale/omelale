@@ -1,5 +1,5 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px" height="55px" style="width: 55px;height: 55px"> Hey there! I'm Ajten
-
+<h1 align="center">Hey there! I'm Ajten</h1>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px" height="55%"> 
 [![Linkedin Badge](https://img.shields.io/badge/-Ajten-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajten-cani/)](https://www.linkedin.com/in/ajten-cani/)
 [![Instagram Badge](https://img.shields.io/badge/-@ajten.cani-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ajten.cani/)](https://instagram.com/ajten.cani)
 [![Gmail Badge](https://img.shields.io/badge/-ajtencani-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ajtencani@gmail.com)](mailto:ajtencani@gmail.com)
