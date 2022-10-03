@@ -1,11 +1,11 @@
-<h1 align="center">Hey there! I'm Ajten</h1>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px" height="55%"> 
+<h1>Hey there! I'm Ajten <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px" height="55%"></h1>
+
 [![Linkedin Badge](https://img.shields.io/badge/-Ajten-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajten-cani/)](https://www.linkedin.com/in/ajten-cani/)
 [![Instagram Badge](https://img.shields.io/badge/-@ajten.cani-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ajten.cani/)](https://instagram.com/ajten.cani)
 [![Gmail Badge](https://img.shields.io/badge/-ajtencani-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ajtencani@gmail.com)](mailto:ajtencani@gmail.com)
 </h1>
-<p align="center"><img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /></p>
-<p align="center">
+<p><img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /></p>
+<p>
     I'm a <b>Computer Science Engineer</b> currently working as a <b>fullstack web developer</b> trying to learn <b>new stuff every day</b>. <br>
     When I'm not coding find me eating some delicious  :poultry_leg: or playing  :soccer: 
 </p>
