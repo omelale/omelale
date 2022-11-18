@@ -53,7 +53,7 @@
 <br>
 
 <details>
-  <summary>Click👆 to see my contribution graph and my most used languages</summary>
+  <summary>Click👆 to see my contribution graph</summary>
   <pre>️ 
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=omelale&theme=github)
