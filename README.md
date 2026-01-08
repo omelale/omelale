@@ -5,8 +5,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-ajtencani-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ajtencani@gmail.com)](mailto:ajtencani@gmail.com)
 </h1>
 <p><img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /></p>
+<h3> I tell computers what to do but most of the time they don't listen...</h3>
 <p>
-    I'm a Computer Science Engineer major trying to learn new stuff every day. 
+    Computer Science Engineer graduate trying to learn new stuff every day. 
 </p>
 
 <!-- ### My daily tools of recreation -->
