@@ -6,13 +6,12 @@
 </h1>
 <p><img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /></p>
 <p>
-    I'm a <b>Computer Science Engineer</b> currently working as a <b>fullstack web developer</b> trying to learn <b>new stuff every day</b>. <br>
-    When I'm not coding find me eating some delicious  :poultry_leg: or playing  :soccer: 
+    I'm a Computer Science Engineer major trying to learn new stuff every day. 
 </p>
 
-### My daily tools of recreation
+<!-- ### My daily tools of recreation -->
 
-<p> 
+<!-- <p> 
   <img src="https://laravel.com/img/logomark.min.svg" style="height: 30px" alt="Laravel-logo">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="height: 30px" alt="php-logo">
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" style="height: 30px" alt="mysql-logo">
@@ -31,11 +30,11 @@
   <img src="https://w7.pngwing.com/pngs/649/982/png-transparent-web-development-responsive-web-design-bootstrap-html-web-design-purple-search-engine-optimization-web-design.png" style="height: 30px" alt="bootstrap-logo">
   <img src="https://toppng.com/uploads/preview/slack-new-logo-icon-11609376883z32jbkf8kg.png" style="height: 30px" alt="slack-logo">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" style="height: 40px" alt="nginx-logo">
-</p>
+</p> -->
 
-### What I sometimes play with
+<!-- ### What I sometimes play with -->
 
-<p>
+<!-- <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="height: 30px" alt="algolia-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849651/googledeveloper_dpefgw.png" alt="google-dev-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849658/aws_zdxicw.jpg" alt="aws-logo">
@@ -48,11 +47,11 @@
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849653/google_gqugc7.png" alt="autocomplete-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849652/linkedin_obs3m2.png" alt="linkedin-logo">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" style="height: 30px" alt="Android-studio-logo">
-</p>
+</p> -->
 
-<br>
+<!-- <br> -->
 
-<details>
+<!-- <details>
   <summary>Click👆 to see my contribution graph</summary>
   <pre>️ 
 
@@ -67,8 +66,8 @@
 
 [//]: # (</p>)
   </pre>
-</details>
+</details> -->
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=omelale)
+<!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=omelale) -->
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/omelale)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/omelale)
