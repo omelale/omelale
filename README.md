@@ -74,6 +74,6 @@
   </pre>
 </details> -->
 
-<!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=omelale) -->
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/omelale)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/omelale)
+[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40omelale-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/omelale) [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40ajten--cani-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://www.linkedin.com/in/ajten-cani) [![Instagram](https://www.shieldcn.dev/badge/Instagram-Instagram-E4405F.svg?logo=instagram&variant=branded&size=sm)](https://instagram.com/ajten.cani)
+
+[![GitHub Followers](https://www.shieldcn.dev/github/followers/omelale.svg?variant=secondary&size=sm)](https://github.com/omelale?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/omelale.svg?variant=secondary&size=sm)](https://github.com/omelale?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-44-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/omelale?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-Rome_Italy-6366f1.svg?logo=googlemaps&variant=ghost&size=sm)
